@@ -1,10 +1,10 @@
-char c =/*                          */'w',ch;
-#include/*                         */<time.h>
-#include/*                        */<stdio.h>
-#include/*                       */<stdlib.h>
-char* S[/*                      */2049]= {0};
-unsigned/*                     */short s[4][4
-]={0},h=/*                    */0,H=0,foo=31;
+char c =/*Ruhun mu ateş yoksa o gözl*/'w',ib;
+#include/*er mi alevden Bilmem bu y*/<time.h>
+#include/*anardağ ne biçim korla t*/<stdio.h>
+#include/*utuştu Pervane olan ken*/<stdlib.h>
+char* S[/*dini gizler mi alevden*/2049]= {0};
+unsigned/*Sen istedin ondan bu */short s[4][4
+]={0},h=/*gönül zorla tutuştu.*/0,H,CVP=1283;
 #define f(Q, Y) for( int Q = 0 ; Q < Y; Q ++)
 #define r(Q, Y) (( rand() % (Y - Q + 1)) + Q)
 #define F(Q, Y) for(int Q= Y- 1; Q> -1; Q --)
@@ -41,4 +41,4 @@ b[97;40m-----");}p("\x1b[97;40m|");;f(l,4){p(
 "\n");f(r,4){p("\x1b[97;40m|");p(S[s[l][r]]);
 }p("\x1b[97;40m|");p("\n");f(i,4){p("\x1b[97\
 ;40m|\x1b[97;40m-----");}p("\x1b[97;40m|");}p
-("\n");}while((c=getchar())!='q');return(0);}                     
+("\n");}while((c=getchar())!='q');return(0);}
